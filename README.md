@@ -1,6 +1,8 @@
 ﻿# GitHub Operation Guide - Anti-Dementia Manual
 ![GitHub release](https://img.shields.io/github/v/release/MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual/total?style=for-the-badge)
+![License](https://img.shields.io/github/license/MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual?style=for-the-badge)
 ## Create a new repository on GitHub
 - Open the GitHub official website and log in to your account.
 - Click the + sign in the upper right corner and select "New repository".
@@ -19,6 +21,7 @@ git config --global user.email "你的 GitHub 注册邮箱"
 
 ## Stars
 [![Star History Chart](https://api.star-history.com/svg?repos=MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual&type=Date&theme=dark)](https://star-history.com/#MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual&Date)
+
 
 
 
