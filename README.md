@@ -16,4 +16,5 @@ git config --global user.email "你的 GitHub 注册邮箱"
 
 
 ## Stars
-[![Star History Chart](https://api.star-history.com/svg?repos=MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual&type=Date)](https://star-history.com/#MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual&type=Date&theme=dark)](https://star-history.com/#MKCorleonE/GitHub-Operation-Guide---Anti-Dementia-Manual&Date)
+
